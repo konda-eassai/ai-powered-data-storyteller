@@ -1,4 +1,4 @@
-# Imarticus Data Science Internship – Assessment (Cohort 6)
+# Data Science Internship – Assessment (Cohort 6)
 
 ## Goal
 
@@ -54,5 +54,6 @@ streamlit run app.py
 3. ML: scikit-learn, joblib
 
 4. Dashboard: streamlit
+
 
 5. Reports: fpdf, python-docx
